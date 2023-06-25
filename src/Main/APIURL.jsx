@@ -1,0 +1,1 @@
+export const ENV_URL="https://63b7849e4f17e3a931d5e17c.mockapi.io/api/profile";
